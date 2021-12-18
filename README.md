@@ -1,5 +1,7 @@
 # contextMatcher
 
+Matching the same product across multiple websites given different title and description. Using BERT, we match products across multiple websites
+
 Following Requirements are required to Run the code
 
 * python3
